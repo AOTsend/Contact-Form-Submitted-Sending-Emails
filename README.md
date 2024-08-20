@@ -1,4 +1,4 @@
-# Contact-Form-Submitted-Auto-Sending-Emails
+# Submit Contact Form Auto Sending Emails (PHP Version)
 Submit a Contact Form will Auto Sending Emails to Predetermined Email Address.
 
 The AOTsend Contact Form is a PHP file source code designed for a specific purpose: when a user inputs information into the form and clicks submit, the PHP file automatically sends the form data via email to a designated client email address.
