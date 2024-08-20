@@ -10,24 +10,25 @@ The AOTsend Contact Form is a PHP file source code designed for a specific purpo
 ## Register AOTsend to Get app_key and template_id
 
 
-1.Register an account on [AOTsend Email API Platform](https://www.aotsend.com).
+1. Register an account on [AOTsend Email API Platform](https://www.aotsend.com).
 
-2.Bind your own domain and complete domain verification. Once verified, it will automatically submit for review. Wait for the review to be approved.
+2. Bind your own domain and complete domain verification. Once verified, it will automatically submit for review. Wait for the review to be approved.
 
-3.Set up an email template. AOTsend provides some high-quality, minimalist templates that can be adapted for various uses.
+3. Set up an email template. AOTsend provides some high-quality, minimalist templates that can be adapted for various uses.
 
-4.Obtain the app_key and template_id from steps 2 and 3. (If unclear, contact AOTsend support.)
+4. Obtain the app_key and template_id from steps 2 and 3. (If unclear, contact AOTsend support.)
 
-5.Download the PHP file (source code for automatic email sending via Contact Form).
+5. Download the PHP file (source code for automatic email sending via Contact Form).
 
-6.On line 31 of the PHP file, replace app_key and template_id with your own. Also, specify the email address where you want to receive the emails.
+6. On line 31 of the PHP file, replace app_key and template_id with your own. Also, specify the email address where you want to receive the emails.
 
-7.Place the PHP file in your website directory and access it via URL.
+7. Place the PHP file in your website directory and access it via URL.
 
-8.Submit a test form to ensure emails are received in your specified mailbox. Remember checking your spam folder if using a new domain.
+8. Submit a test form to ensure emails are received in your specified mailbox. Remember checking your spam folder if using a new domain.
 
 
 .
+
 .
 
 
